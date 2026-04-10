@@ -1,0 +1,5 @@
+name = "haruhikage"
+compatibility_date = "2026-04-10"
+
+# 纯静态资源绑定，无任何JS脚本
+assets = { directory = "./assets" }
