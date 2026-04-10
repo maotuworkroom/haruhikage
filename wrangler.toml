@@ -1,5 +1,5 @@
 name = "haruhikage"
 compatibility_date = "2026-04-10"
 
-# 纯静态资源绑定，无任何JS脚本
-assets = { directory = "./assets" }
+# 关键配置：指定静态资源目录为当前根目录
+assets = { directory = "./" }
